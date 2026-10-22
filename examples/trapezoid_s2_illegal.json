@@ -1,0 +1,24 @@
+{
+ "SPDX-FileCopyrightText": "Copyright 2026 Zhizheng Ju",
+ "SPDX-License-Identifier": "Apache-2.0",
+ "comment": "ILLEGAL on concyclicity alone: every one of the six distances is integral (5,6,6,9,9,9) and no three points are collinear, but the two points at t=0 and the two at t=4 form an isosceles trapezoid in the true plane, and parallel chords with equal legs force one circle. This is the obstruction the eight-point problem keeps hitting, reproduced from three lines of arithmetic at characteristic 2.",
+ "s": 2,
+ "points": [
+  [
+   0,
+   0
+  ],
+  [
+   9,
+   0
+  ],
+  [
+   7,
+   4
+  ],
+  [
+   2,
+   4
+  ]
+ ]
+}

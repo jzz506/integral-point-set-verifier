@@ -1,0 +1,24 @@
+{
+ "SPDX-FileCopyrightText": "Copyright 2026 Zhizheng Ju",
+ "SPDX-License-Identifier": "Apache-2.0",
+ "comment": "LEGAL: a 40-40-48 triangle (a 5-5-6 triangle scaled by 8, circumradius abc/4K = 25) together with its circumcentre. Six integral distances 25,25,25,40,40,48; no three collinear; not concyclic. Constructed from the Heron formula, not read from any dataset.",
+ "s": 1,
+ "points": [
+  [
+   0,
+   0
+  ],
+  [
+   48,
+   0
+  ],
+  [
+   24,
+   32
+  ],
+  [
+   24,
+   7
+  ]
+ ]
+}
